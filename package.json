@@ -1,0 +1,11 @@
+{
+  "name": "sf",
+  "version": "1.0.0",
+  "description": "fshare",
+  "main": "index.js",
+  "author": "kientrung.huynh@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+     "stremio-addons": "latest"
+  }
+}
